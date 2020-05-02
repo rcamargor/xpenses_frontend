@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from 'src/img/logo.svg';
 import './App.css';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Xpenses
         </p>
         <a
           className="App-link"
